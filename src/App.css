@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.App .ck-container, .App .ck-output {
+  width: 50% !important;
+}
+
+.App .ck-container .ck-content {
+  height: 100vh !important;
+}
+
+.App .ck-output .ck-content {
+  height: 100vh !important;
+}
+
